@@ -1,0 +1,8 @@
+README.md
+setup.py
+PredictStudentPerformance.egg-info/PKG-INFO
+PredictStudentPerformance.egg-info/SOURCES.txt
+PredictStudentPerformance.egg-info/dependency_links.txt
+PredictStudentPerformance.egg-info/requires.txt
+PredictStudentPerformance.egg-info/top_level.txt
+src/__init__.py
